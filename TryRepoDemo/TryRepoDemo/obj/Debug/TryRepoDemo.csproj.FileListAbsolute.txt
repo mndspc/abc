@@ -1,0 +1,7 @@
+C:\Users\Shoaib\Documents\GitHub\abc\TryRepoDemo\TryRepoDemo\bin\Debug\TryRepoDemo.exe.config
+C:\Users\Shoaib\Documents\GitHub\abc\TryRepoDemo\TryRepoDemo\bin\Debug\TryRepoDemo.exe
+C:\Users\Shoaib\Documents\GitHub\abc\TryRepoDemo\TryRepoDemo\bin\Debug\TryRepoDemo.pdb
+C:\Users\Shoaib\Documents\GitHub\abc\TryRepoDemo\TryRepoDemo\obj\Debug\TryRepoDemo.csprojAssemblyReference.cache
+C:\Users\Shoaib\Documents\GitHub\abc\TryRepoDemo\TryRepoDemo\obj\Debug\TryRepoDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib\Documents\GitHub\abc\TryRepoDemo\TryRepoDemo\obj\Debug\TryRepoDemo.exe
+C:\Users\Shoaib\Documents\GitHub\abc\TryRepoDemo\TryRepoDemo\obj\Debug\TryRepoDemo.pdb
